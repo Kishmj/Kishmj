@@ -18,8 +18,6 @@ When I'm not immersed in code, I'm out on the open road, enjoying the freedom of
 I believe in continuous learning and am always excited to take on new challenges in the ever-evolving world of web development. Let's connect and collaborate to create something exceptional!
 
 🌍 **Find me around the web:**
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Personal Portfolio](https://www.yourportfolio.com)
-- [Twitter](https://twitter.com/yourhandle)
-- [Instagram](https://www.instagram.com/yourhandle)
+- [Mail](kishorejagadeesan2205@gmail.com)
+
 
