@@ -6,6 +6,7 @@ I'm a passionate web developer with a knack for creating seamless online experie
 - 🛠️ Back-end: PHP
 - ⚛️ Frameworks: React
 - 🌐 CMS: WordPress
+- ⚛️ Onboarding: Static WebSite Using [React]
 - 🚀 Currently exploring: [MERN Stack]
 
 When I'm not immersed in code, I'm out on the open road, enjoying the freedom of riding, or hitting the gym to stay fit and healthy.
