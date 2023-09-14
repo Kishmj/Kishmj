@@ -6,6 +6,7 @@ I'm a passionate web developer with a knack for creating seamless online experie
 - 🛠️ Back-end: PHP
 - ⚛️ Frameworks: React
 - 🌐 CMS: WordPress
+- ⚛️ Compleated: static CRUD operations-[React]
 - ⚛️ Onboarding: Static WebSite Using [React]
 - 🚀 Currently exploring: [MERN Stack]
 
@@ -16,6 +17,7 @@ When I'm not immersed in code, I'm out on the open road, enjoying the freedom of
 - Created dynamic websites with PHP-backend integration
 - Also developed website for a Infrastructure based buisnesses
 - [my site](https://pahrulitours.com/)
+- static CRUD operations-React
 
 I believe in continuous learning and am always excited to take on new challenges in the ever-evolving world of web development. Let's connect and collaborate to create something exceptional!
 
